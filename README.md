@@ -6,9 +6,9 @@
 - [Tools](#tools)
 - [Courses](#courses)
 - [Examples of my work](#examples-of-my-work)
-  * [Test Plan, Test Case, and Bug Report](#testplan-testcase-bugreport)
-  * [API Testing](#apitesting)
-  * [Performance Testing using Jmeter](#performance-testing)
+  * [Test Plan, Test Case, and Bug Report](#testplan-testcase-and-bugreport)
+  * [API Testing](#api-testing)
+  * [Performance Testing using Jmeter](#performance-testing-using-jmeter)
   * [Web Automation)](#web-automation)
 
 
@@ -22,7 +22,7 @@ With a background in Computer Science and experience in leadership roles, I brin
 
 
 ## CV
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1R-38G5cVRRFnnXBBz-VdJYfxIhlEYSEv/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1segf9B1BuNtNI24dNdoEBLjIFkcp7cbG/view?usp=drive_link).
 
 ## Skills
 
@@ -129,7 +129,7 @@ Throughout this course, I gained practical experience with tools and methodologi
 ## Examples of my work
 
 ### Test Plan, Test Case, and Bug Report
-(#testplan-testcase-bugreport)
+
 - The project is created based on [Sauce Demo Page](https://saucedemo.com/) and reported:
   * Test Plan. Check [Sheet 1 or Test Plan Sheet](https://docs.google.com/spreadsheets/d/1NlIBvGXI-ZK_k0ZfqmwJwKO3e7AOGthhpdS4m824c7M/edit?usp=sharing).
   * Test Case. Check [Sheet 2 or Test Case Sheet](https://docs.google.com/spreadsheets/d/1NlIBvGXI-ZK_k0ZfqmwJwKO3e7AOGthhpdS4m824c7M/edit?usp=sharing).
@@ -137,16 +137,16 @@ Throughout this course, I gained practical experience with tools and methodologi
 
 
 ### API Testing
-(#apitesting)
+
 * API Testing with Postman, Check the collection [here](https://drive.google.com/file/d/1ER_rkNUd2_ovLdTkGatylTcLpqJSFTeV/view?usp=drive_link)
 * API Automation testing using Mocha, Chai, Supertest, and JSON Schema assertions. Check the project [here](https://github.com/restrioktalasa/api-automation-ds-batch5.git). It's include html reports too, and can check the [screenshoot for html report here](https://drive.google.com/file/d/1jC09crnCuAlj5zgkp6tVkvarcJ8nzl-R/view?usp=drive_link)
 
 ### Performance Testing using Jmeter
-(#performance-testing)
+
 * Running Performance Testing at saucedemo.com using Jmeter. Check the result [here](https://drive.google.com/drive/folders/1QyIheGP7WjM76biwXN9ehncld4-JVVg1?usp=drive_link)
 
 ### Web Automation
-(#web-automation)
+
 * Web Automation with Mocha.
 This project is creating test script using Mocha Framework and Page Object Model (POM), Check the repository [here](https://github.com/restrioktalasa/wdio-pom-digitalskola). *using web saucedemo.com*
 
