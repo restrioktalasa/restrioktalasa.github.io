@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio
 - [About me](#about-me)
 - [CV](#cv)
@@ -156,3 +157,6 @@ This project is creating test script using Cucumber and Gherkin. Check the repos
 This project is creating for Login automation with Katalon. The testcase is using data driven and also validation for Login. Check the repository [here](https://github.com/restrioktalasa/katalon-test-login).
 
 
+=======
+# restrioktalasa.github.io
+>>>>>>> f0a2bb7b25e53a6d0a6e2542b5089ad57c983163
