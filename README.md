@@ -9,7 +9,7 @@
   * [Test Plan, Test Case, and Bug Report](#testplan-testcase-and-bugreport)
   * [API Testing](#api-testing)
   * [Performance Testing using Jmeter](#performance-testing-using-jmeter)
-  * [Web Automation)](#web-automation)
+  * [Web Automation](#web-automation)
 
 
 ## About me
