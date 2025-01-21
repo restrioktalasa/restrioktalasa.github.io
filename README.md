@@ -83,6 +83,11 @@ __Leadership & Organization__
 
 ## Tools
 
+__Katalon Studio__
+  * Proficient in designing and maintaining automated test scripts for web applications.
+  * Experienced in handling dynamic elements and managing test data using the built-in data-driven testing features.
+  * Adept at generating comprehensive test reports and analyzing results for improving test coverage and efficiency.
+
 __TestRail__
   * Proficient in creating detailed test cases and test suites.
   * Able to execute test cases and track test results.
@@ -123,7 +128,7 @@ __Mini Bootcamp by DigitalSkola__
 July 31 - August 24, 2024
 An intensive bootcamp focusing on quality assurance and test automation by [Digital Skola](https://digitalskola.com/) 
 Throughout this course, I gained practical experience with tools and methodologies such as Git, JavaScript, Webdriver.io, JMeter, Mocha, Gherkin, and Cucumber, enhancing my skills in API and web automation testing. The bootcamp emphasized hands-on projects, providing a deeper understanding of automated testing practices within an Agile framework. 
-[Link to the certificate]( )
+[Link to the certificate](https://drive.google.com/file/d/1iBjWs43DW04afjGjPcyk_oSPuLlkB7G9/view?usp=drive_link)
 
 
 ## Examples of my work
