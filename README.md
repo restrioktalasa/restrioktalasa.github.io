@@ -159,7 +159,7 @@ This project is creating test script using Mocha Framework and Page Object Model
 This project is creating test script using Cucumber and Gherkin. Check the repository [here](https://github.com/restrioktalasa/wdio-cucumber-digitalskola). It's also include reporter with [spec](https://drive.google.com/drive/folders/1szCPvOhaEQ8PZ6C-Q1_VS37yi0gMe1bq?usp=drive_link). *using web saucedemo.com*
 
 * Web Automation using Katalon.
-This project is creating with all features at Katalon. From creating test case, create object repositories, create test suites, implementation Test Listener and Custom Keywords. This project also exemplifies the impelementation data files for data driven. Check the repository [here](https://https://github.com/restrioktalasa/katalonportofolio).
+This project is creating with all features at Katalon. From creating test case, create object repositories, create test suites, implementation Test Listener and Custom Keywords. This project also exemplifies the impelementation data files for data driven. Check the repository [here](https://github.com/restrioktalasa/katalonportofolio).
 
 
 =======
